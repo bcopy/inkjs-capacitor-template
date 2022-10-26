@@ -1,0 +1,32 @@
+{
+  "name": "inkjs-capacitor-template",
+  "version": "0.1.0",
+  "description": "InkJS and Capacitor app built with Maven and NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcopy/inkjs-capacitor-template.git"
+  },
+  "keywords": [
+    "inkjs",
+    "maven",
+    "npm",
+    "frontend-plugin",
+    "vue"
+  ],
+  "author": "B. Copy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcopy/inkjs-capacitor-template/issues"
+  },
+  "homepage": "https://github.com/bcopy/inkjs-capacitor-template#readme",
+  "dependencies": {
+    "@capacitor/core": "^4.4.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^4.4.0"
+  }
+}
